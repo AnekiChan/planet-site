@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NonExsistentWiki.Server.props" />
+</Project>

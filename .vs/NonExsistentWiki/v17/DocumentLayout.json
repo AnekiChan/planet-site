@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\nonexsistentwiki.server\\services\\postconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\services\\postconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\nonexsistentwiki.server\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|d:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\nonexsistentwiki\\nonexsistentwiki.server\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\nonexsistentwiki.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\nonexsistentwiki.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\nonexsistentwiki.server\\services\\authconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\services\\authconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\nonexsistentwiki.server\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\nonexsistentwiki.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8058C5-5E8D-4AE8-9546-FA397F55E552}|NonExsistentWiki.Server\\NonExsistentWiki.Server.csproj|solutionrelative:nonexsistentwiki.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:21:23.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:52:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthConnection.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Services\\AuthConnection.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Services\\AuthConnection.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Services\\AuthConnection.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Services\\AuthConnection.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAAANUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:32:38.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostConnection.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Services\\PostConnection.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Services\\PostConnection.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Services\\PostConnection.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Services\\PostConnection.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwMIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:03:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Program.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Program.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Program.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Program.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAIAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:45:30.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Models\\User.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Models\\User.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:53:16.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Models\\Role.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Models\\Role.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:53:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Models\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "NonExsistentWiki.Server\\Models\\AuthOptions.cs",
+              "ToolTip": "D:\\\u0441\u0434\u043E\\\u0432\u0435\u0431\\NonExsistentWiki\\NonExsistentWiki.Server\\Models\\AuthOptions.cs",
+              "RelativeToolTip": "NonExsistentWiki.Server\\Models\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:53:13.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

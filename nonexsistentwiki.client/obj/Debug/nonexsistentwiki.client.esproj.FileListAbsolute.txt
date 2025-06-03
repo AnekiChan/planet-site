@@ -1,0 +1,3 @@
+D:\сдо\веб\NonExsistentWiki\nonexsistentwiki.client\obj\Debug\nonexsistentwiki.client.esproj.CoreCompileInputs.cache
+C:\Users\flsgd\Files\sdo\web\NonExsistentWiki\nonexsistentwiki.client\obj\Debug\nonexsistentwiki.client.esproj.CoreCompileInputs.cache
+C:\Users\flsgd\Files\sdo\web\PlanetSite\nonexsistentwiki.client\obj\Debug\nonexsistentwiki.client.esproj.CoreCompileInputs.cache
