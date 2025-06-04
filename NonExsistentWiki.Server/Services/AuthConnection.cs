@@ -24,9 +24,6 @@ namespace NonExsistentWiki.Server.Services
                     {
                         SqliteCommand cmd = new SqliteCommand();
                         cmd.Connection = DbConnection;
-                        cmd.CommandText = $"SELECT role FROM roles WHERE role='{userRole}'";
-                        cmd.ExecuteNonQuery();
-                        DbConnection.Close();
                         cmd.CommandText = $"INSERT INTO users (email, password, role) VALUES ('{user.Email}', '{user.Password}', '{user.Role.Name}')";
                         cmd.ExecuteNonQuery();
 
